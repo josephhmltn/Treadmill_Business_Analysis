@@ -27,10 +27,6 @@ Boxplots revealed distinct distributions for **age and income** when segmented b
 ![Age Distribution by Gender](images/age_dist_by_gender.png)
 ![Income Distribution by Gender](images/income_dist_by_gender.png)
 
-A heatmap was used to visualize the correlation between different numeric variables.
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
 The **majority** of participants were **partnered**.
 
 ![Marital Status Distribution](images/marital_status_dist.png)
