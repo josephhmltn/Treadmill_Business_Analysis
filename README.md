@@ -23,9 +23,7 @@ The goal is to give data-driven insights and recommendations to increase the sal
 - **Income**: Annual income in USD.
 - **Miles**: Estimated average weekly mileage on the treadmill.
 
-
-## 📝 Methodology
-
+### 📝 Methodology
 - **Data Exploration & EDA:** Initial exploration of the dataset to understand the distribution and characteristics of various features.
 - **In-Depth Product Analysis:** Focused analysis on the Products, comparing different treadmill models.
 
