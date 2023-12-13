@@ -81,7 +81,7 @@ The goal is to give data-driven insights and recommendations to increase the sal
 
 **Both males and females show similar preferences for KP281 and KP481**, while **KP781 has a notably lower female preference**.
 
-~[](images/product_pref_by_gender.png)
+![](images/product_pref_by_gender.png)
 
 ## Conclusion
 The EDA provided valuable insights into the treadmill sales data, highlighting key trends and patterns. These findings can assist in tailoring marketing strategies, product development, and customer engagement efforts.
