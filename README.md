@@ -26,7 +26,20 @@ Each analysis was conducted using Python with key steps:
 
 ![](images/product_popularity.png)
 
-## Income Distribution by Product Analysis 📈
+## Age Distribution Analysis 📉
+
+**The age distribution is skewed towards a younger demographic**, peaking between 25-30 years.
+
+- **Peak Frequency:** Occurs in the 25-30 age range, indicating a concentration of younger individuals.
+- **Notable Decrease:** Post-30 age frequency declines significantly, highlighting a youthful demographic profile.
+- **Limited Senior Representation:** Sparse data points beyond 40 years, suggesting limited engagement from older age groups.
+
+![](images/age_dist.png)
+
+
+## Product Analysis
+
+### Income Distribution by Product Analysis 📈
 
 **KP781 shows the highest income potential**, with its box plot indicating a significantly higher median income compared to KP281 and KP481.
 
