@@ -26,5 +26,15 @@ Each analysis was conducted using Python with key steps:
 
 ![](images/product_popularity.png)
 
+## Income Distribution by Product Analysis 📈
+
+**KP781 shows the highest income potential**, with its box plot indicating a significantly higher median income compared to KP281 and KP481.
+
+- **KP281 & KP481:** Similar income ranges, suggesting comparable market performance.
+- **KP781:** Not only the highest median income but also a wider income range, implying greater variability and possibly higher market value per unit.
+
+![](income_dist_by_product/.png)
+
+
 ## Conclusion
 The EDA provided valuable insights into the treadmill sales data, highlighting key trends and patterns. These findings can assist in tailoring marketing strategies, product development, and customer engagement efforts.
