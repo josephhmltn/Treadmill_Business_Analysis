@@ -6,7 +6,7 @@ This project involves:
 - An exploratory data analysis (EDA)
 - A Product analysis 
 
-The primary goal is to uncover insights that can inform business strategies and customer understanding.
+The primary goal is to increase the sales of the KP781 model.
 
 ## Methodology
 The EDA was conducted using Python, with libraries such as Pandas, Seaborn, and Matplotlib. Key steps included:
