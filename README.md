@@ -63,6 +63,15 @@ The goal is to give data-driven insights and recommendations to increase the sal
 
 ![](images/income_dist_by_product.png)
 
+### Treadmill Usage by Product: Weekly Mileage 🏃‍♂️📊
+
+- **KP281 (Blue):** Consistent lower mileage suggests it may cater to casual users or beginners.
+- **KP481 (Light Blue):** Slightly higher mileage than KP281, could be preferred by regular exercisers.
+- **KP781 (Dark Blue):** Highest mileage with greater variation, likely favored by serious runners or those training for events.
+
+**KP781 users expect to cover more miles weekly**, indicating its appeal to more active users or those with higher fitness goals.
+
+![](images/product_by_miles.png)
 
 ## Conclusion
 The EDA provided valuable insights into the treadmill sales data, highlighting key trends and patterns. These findings can assist in tailoring marketing strategies, product development, and customer engagement efforts.
