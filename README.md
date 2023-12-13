@@ -33,7 +33,7 @@ Each analysis was conducted using Python with key steps:
 - **KP281 & KP481:** Similar income ranges, suggesting comparable market performance.
 - **KP781:** Not only the highest median income but also a wider income range, implying greater variability and possibly higher market value per unit.
 
-![](income_dist_by_product.png)
+![](images/income_dist_by_product.png)
 
 
 ## Conclusion
