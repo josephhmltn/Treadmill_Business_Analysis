@@ -83,5 +83,14 @@ The goal is to give data-driven insights and recommendations to increase the sal
 
 ![](images/product_pref_by_gender.png)
 
+### Product Preference by Fitness Level🏋️‍♂️📊
+
+- **KP281 & KP481:** Both products have similar fitness level preferences, indicating their suitability for average fitness users.
+- **KP781:** Significantly higher preference from the more fitness-focused users, suggesting it's tailored for advanced training needs.
+
+**KP781 is the favored choice among users with higher fitness levels**, whereas KP281 and KP481 are preferred by those with moderate fitness levels.
+
+![](images/prod_pref_by_fitness.png)
+
 ## Conclusion
 The EDA provided valuable insights into the treadmill sales data, highlighting key trends and patterns. These findings can assist in tailoring marketing strategies, product development, and customer engagement efforts.
