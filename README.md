@@ -56,10 +56,10 @@ The goal is to give data-driven insights and recommendations to increase the sal
 
 ### Income Distribution by Product Analysis 📈
 
-**KP781 shows the highest income potential**, with its box plot indicating a significantly higher median income compared to KP281 and KP481.
-
 - **KP281 & KP481:** Similar income ranges, suggesting comparable market performance.
 - **KP781:** Not only the highest median income but also a wider income range, implying greater variability and possibly higher market value per unit.
+
+**KP781 shows the highest income potential**, with its box plot indicating a significantly higher median income compared to KP281 and KP481.
 
 ![](images/income_dist_by_product.png)
 
