@@ -1,5 +1,5 @@
 # 🏃 Treadmill Sales Analysis
-A repo showcasing a business analysis performed for treadmill sales data.
+A repo showcasing a product sales analysis performed for treadmill sales data.
 
 ## 🔎 Project Goal
 
@@ -118,7 +118,7 @@ The goal is to give data-driven insights and recommendations to increase the sal
 To increase the sales of the premium KP781 treadmill model, we must leverage the data-driven insights gained from our analysis:
 
 - **Target Fitness Enthusiasts**: Given that KP781 is preferred by users with higher fitness levels, marketing campaigns should be directed towards fitness enthusiasts and individuals who are more serious about running and training.
-- **Highlight Advanced Features**: Emphasize the advanced features of KP781 in advertising materials to justify the higher price point and appeal to those seeking a more robust, feature-rich treadmill.
 - **Focus on Higher Income Segments**: The data indicates a correlation between higher income and the preference for KP781. Tailoring promotions to higher-income demographics could yield better sales conversions.
+- **Gender-Inclusive Marketing**: Although our data shows a male preference for KP781, inclusive marketing can tap into the female market by highlighting features that appeal across genders, such as safety, versatility, and technology integration.
 
 Implementing these strategies should lead to an uptick in the sales of the KP781 treadmill as we align our product strengths with customer preferences and market trends.
