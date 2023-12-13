@@ -26,7 +26,7 @@ Each analysis was conducted using Python with key steps:
 
 ![](images/product_popularity.png)
 
-## Age Distribution Analysis 📉
+### Age Distribution Analysis 📉
 
 **The age distribution is skewed towards a younger demographic**, peaking between 25-30 years.
 
@@ -36,6 +36,15 @@ Each analysis was conducted using Python with key steps:
 
 ![](images/age_dist.png)
 
+### Income Distribution Summary 📉💰
+
+**Most frequent income bracket is around $50,000**, with a notable decrease in frequency as income increases.
+
+- **Middle-Class Predominance:** A concentration around the $50,000 income level suggests a middle-class demographic.
+- **Higher Income Rarity:** Fewer occurrences above $70,000, highlighting the rarity of higher income levels in the dataset.
+- **Outliers:** Presence of outliers at both ends may indicate exceptional cases or data entry errors.
+
+![](images/income_dist.png)
 
 ## Product Analysis
 
