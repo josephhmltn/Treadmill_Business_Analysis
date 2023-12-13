@@ -11,14 +11,10 @@ The primary goal is to give data-driven insights and recommendations to increase
 ## Methodology
 Each analysis was conducted using Python with key steps:
 
-- Descriptive statistics for numeric and non-numeric data.
-- Visualizations to understand distributions and relationships.
-- Correlation analysis to identify potential links between variables.
-- Cluster analysis to discover patterns and groupings in the data.
 - **Data Exploration:** Initial exploration of the dataset to understand the distribution and characteristics of various features.
-- **In-Depth Product Analysis:** Focused analysis on the 'Product' column, comparing different treadmill models.
+- **In-Depth Product Analysis:** Focused analysis on the Products, comparing different treadmill models.
 
-## Key Findings
+## Exploratory Data Analysis
 
 The dataset showed a slightly higher number of **male** participants compared to **females**.
 
