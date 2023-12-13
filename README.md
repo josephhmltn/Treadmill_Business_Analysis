@@ -73,5 +73,15 @@ The goal is to give data-driven insights and recommendations to increase the sal
 
 ![](images/product_by_miles.png)
 
+### Gender-Based Product Preference Analysis 📊👫
+
+- **KP281:** Equally preferred by both genders, indicating a universal appeal.
+- **KP481:** Slight male preference, but still comparably popular among females.
+- **KP781:** Markedly less favored by females, suggesting it may be better suited or marketed towards male users.
+
+**Both males and females show similar preferences for KP281 and KP481**, while **KP781 has a notably lower female preference**.
+
+~[](images/product_pref_by_gender.png)
+
 ## Conclusion
 The EDA provided valuable insights into the treadmill sales data, highlighting key trends and patterns. These findings can assist in tailoring marketing strategies, product development, and customer engagement efforts.
