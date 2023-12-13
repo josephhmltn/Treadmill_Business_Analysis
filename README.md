@@ -1,9 +1,28 @@
-# 🏃 Treadmill_Business_Analysis
+# 🏃 Treadmill Sales Analysis
 A repo showcasing a business analysis performed for treadmill sales data.
 
 ## 🔎 Project Goal
 
 The goal is to give data-driven insights and recommendations to increase the sales of the KP781 model.
+
+## Treadmill Product Portfolio & Data Description 🏃‍♂️💼
+
+### Product Portfolio:
+- **KP281**: Entry-level treadmill, priced at $1,500, catering to beginners.
+- **KP481**: Designed for mid-level runners, with a price point of $1,750.
+- **KP781**: Advanced treadmill for the most dedicated runners, available for $2,500.
+
+### Dataset Features:
+- **Product**: Type of treadmill purchased - KP281, KP481, or KP781.
+- **Age**: Age of the customer in years.
+- **Gender**: Male or Female.
+- **Education**: Number of years of education completed.
+- **Marital Status**: Single or Partnered.
+- **Usage**: Expected weekly usage frequency.
+- **Fitness**: Self-rated fitness level on a scale from 1 (poor shape) to 5 (excellent shape).
+- **Income**: Annual income in USD.
+- **Miles**: Estimated average weekly mileage on the treadmill.
+
 
 ## 📝 Methodology
 
@@ -92,5 +111,14 @@ The goal is to give data-driven insights and recommendations to increase the sal
 
 ![](images/prod_pref_by_fitness.png)
 
-## Conclusion
-The EDA provided valuable insights into the treadmill sales data, highlighting key trends and patterns. These findings can assist in tailoring marketing strategies, product development, and customer engagement efforts.
+## Final Results: Enhancing KP781 Sales Strategy 🚀📈
+
+### Key Insights for Boosting KP781 Treadmill Sales:
+
+To increase the sales of the premium KP781 treadmill model, we must leverage the data-driven insights gained from our analysis:
+
+- **Target Fitness Enthusiasts**: Given that KP781 is preferred by users with higher fitness levels, marketing campaigns should be directed towards fitness enthusiasts and individuals who are more serious about running and training.
+- **Highlight Advanced Features**: Emphasize the advanced features of KP781 in advertising materials to justify the higher price point and appeal to those seeking a more robust, feature-rich treadmill.
+- **Focus on Higher Income Segments**: The data indicates a correlation between higher income and the preference for KP781. Tailoring promotions to higher-income demographics could yield better sales conversions.
+
+Implementing these strategies should lead to an uptick in the sales of the KP781 treadmill as we align our product strengths with customer preferences and market trends.
