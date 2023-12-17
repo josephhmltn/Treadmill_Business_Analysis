@@ -4,7 +4,7 @@
 
 The original iteration of this project was completed independently several months ago and is titled 'Treadmill Sales'. The current version, which incorporates AI assistance, comprises '0_Exploratory_Data_Analysis' and '1_Product_Analysis'. This structure was adopted to delineate the enhanced scope and to facilitate an in-depth understanding of AI applications in analytics. AI's role spanned from generating visualization code to producing and formatting this markdown documentation. The intent behind this approach was to gauge the practicality and limitations of AI within data analytics workflows.
 
-*Manual coding changes have been applied where the AI failed*
+*Manual coding changes have been applied where the AI failed.*
 
 ## 🔎 Project Goal
 
