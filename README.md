@@ -6,7 +6,7 @@ The original iteration of this project was completed independently several month
 
 *Manual coding changes have been applied where the AI failed.*
 
-## 🔎 Project Goal
+## 🎯 Project Goal
 
 The goal is to give data-driven insights and recommendations to increase the sales of the KP781 model.
 
