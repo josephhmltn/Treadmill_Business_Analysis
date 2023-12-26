@@ -2,9 +2,11 @@
 
 ## ⚠️ Disclaimer
 
-The original iteration of this project was completed independently several months ago and is titled 'Treadmill Sales'. The current version, which incorporates AI assistance, comprises '0_Exploratory_Data_Analysis' and '1_Product_Analysis'. This structure was adopted to delineate the enhanced scope and to facilitate an in-depth understanding of AI applications in analytics. AI's role spanned from generating visualization code to producing and formatting this markdown documentation. The intent behind this approach was to gauge the practicality and limitations of AI within data analytics workflows.
+Original Work: My original project completed solely by myself is located [here](https://github.com/josephhmltn/Treadmill_Sales_Analysis/blob/main/Original%20notebook/Treadmill%20Sales.ipynb). This represents weeks of hardwork manually writing and adjusting the Python code during initial stages of learning.
 
-*Manual coding changes have been applied where the AI failed.*
+AI-Assisted Iteration: This AI-assisted, current iteration is located [here](https://github.com/josephhmltn/Treadmill_Sales_Analysis/blob/main/0_Exploratory_Data_Analysis.ipynb) and [here](https://github.com/josephhmltn/Treadmill_Sales_Analysis/blob/main/1_Product_Analysis.ipynb). This new structure was adopted to delineate the enhanced scope and to facilitate an in-depth understanding of AI applications in analytics. AI's role spanned from generating visualization code to producing and formatting this markdown documentation. The intent behind this approach was to gauge the practicality and limitations of AI within data analytics workflows.
+
+*Any initital insights and visualizations presented herein, including this README file, are a product of this AI-assisted analysis.*
 
 ## 🎯 Project Goal
 
